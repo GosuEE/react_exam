@@ -1,0 +1,15 @@
+.form{
+  width: 245px;
+  margin: 0 auto;
+}
+.todo{
+  display: flex;
+}
+.todo p{
+  margin-right: 10px;
+  width: 100px;
+  height: 100px;
+  border: 2px solid #3CA0FF;
+  border-radius: 8px;
+  padding: 5px;
+}
